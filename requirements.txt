@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+# add later when wiring DB / HF Space:
+# psycopg[binary,pool]>=3.2
+# huggingface_hub>=0.35
+# gradio_client>=0.16
